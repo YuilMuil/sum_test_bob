@@ -12,4 +12,4 @@ sum.o: sum.h sum.cpp
 
 clean:
 	rm -f sum-test
-	rm -f *.0
+	rm -f *.o
